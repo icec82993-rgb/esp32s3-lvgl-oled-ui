@@ -1,0 +1,3 @@
+# Required by 78/xiaozhi-fonts
+CONFIG_LV_USE_IMGFONT=y
+CONFIG_LV_FONT_FMT_TXT_LARGE=y
